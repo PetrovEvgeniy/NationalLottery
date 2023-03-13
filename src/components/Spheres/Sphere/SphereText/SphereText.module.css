@@ -1,0 +1,25 @@
+.sphereText{
+    color:white;
+    margin-top: 30px;
+    margin-left: 3px;
+    font-size: 50px;
+}
+
+.spinActive {
+    animation: spinActive 0.2s infinite;
+}
+
+@keyframes spinActive {
+    0% {
+        opacity: 0;
+        transform: translateY(-60%);
+    }
+    50% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(30%);
+    }
+}

@@ -1,0 +1,9 @@
+.image{
+    height: 300px;
+    width: 100px;
+}
+
+.money{
+    color: green;
+    font-weight: bolder;
+}

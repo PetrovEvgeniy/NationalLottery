@@ -1,0 +1,47 @@
+.sphere{
+    width: 60px;
+    height: 125px;
+    /* margin: 0px -60px 0px 70px !important; */
+    /* box-shadow:20px 20px 50px black; */
+    border: 3px solid yellow;
+    border-radius: 10%;
+    display: inline-flex;
+    margin: auto
+    
+}
+.capsule{
+    border: 2px solid black;
+    border-radius: 20%;
+    background-color: white;
+    width: 80px;
+    height: 140px;
+    display: inline-flex;
+}
+
+.sphereInitialized{
+    background: black;
+}
+
+.sphereSpinning{
+    background: blue;
+}
+
+.sphereCorrect{
+    background: green;
+}
+
+.sphereIncorrect{
+    background: red;
+}
+/* 
+@media screen and (max-width: 600px) {
+    .sphere{
+        width: 30px;
+        height: 65px;
+        
+    }
+    .capsule{
+        width: 40px;
+        height: 70px;
+    }
+} */

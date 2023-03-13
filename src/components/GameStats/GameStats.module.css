@@ -1,0 +1,11 @@
+.GameStats{
+    color: black;
+    border: 2px solid white;
+    background-color: #f44336;
+    border-radius: 35%;
+    padding: 10px 100px;
+}
+.money{
+    color: green;
+    font-size: larger;
+}
