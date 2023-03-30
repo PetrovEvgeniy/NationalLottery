@@ -6,6 +6,9 @@ import DirectionModal from './components/Modals/DirectionModal/DirectionModal';
 import SummaryModal from './components/Modals/SummaryModal/SummaryModal';
 import Logo from './components/Logo/Logo';
 
+//Confetti 
+import Confetti from 'react-confetti';
+
 import initialState from './utils/initialState';
 let interval = null;
 
@@ -205,6 +208,9 @@ class App extends Component {
       <Fragment>
       <Logo/>
       <div className={styles.container}>
+        {this.state.summaryModalVisible && <Confetti
+          gravity={0.5}
+        />}
         <SummaryModal
         show={this.state.summaryModalVisible}
         money={this.state.earnedMoney}

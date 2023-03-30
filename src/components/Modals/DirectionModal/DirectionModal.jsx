@@ -22,7 +22,7 @@ const DirectionModal = (props) => {
       TransitionComponent={Transition}
     >
       <DialogTitle>
-      <span role="img" aria-label="Pick direction emoji">↕️</span>Please, select direction:
+      <span role="img" aria-label="Pick direction emoji">⬆️⬇️</span>Please, select direction:
       </DialogTitle>
       <DialogContent dividers>
         <Grid
