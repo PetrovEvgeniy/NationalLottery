@@ -209,7 +209,7 @@ class App extends Component {
       <Logo/>
       <div className={styles.container}>
         {this.state.summaryModalVisible && <Confetti
-          gravity={0.5}
+          gravity={0.2}
         />}
         <SummaryModal
         show={this.state.summaryModalVisible}
