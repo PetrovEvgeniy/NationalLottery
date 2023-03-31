@@ -8,7 +8,7 @@ The National Lottery is an offline number-guessing game
 
 ✅ CORRECT GUESS -> the total prize rises 
 
-❌ WRONG GUESS -> you are allowed to make only 1 single mistake, if you make 2 game ends and your prize is cut in half
+❌ WRONG GUESS -> you are allowed to make <strong>only 1 single mistake</strong>, if you make 2 game ends and your prize is cut in half
 
 ## 💰JACKPOT : 200 000 €
 
