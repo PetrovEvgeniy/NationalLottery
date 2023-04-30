@@ -12,10 +12,8 @@ The National Lottery is an offline number-guessing game
 
 ## 💰JACKPOT : 200 000 €
 
-
 ## Deployed in:
-Firebase - https://d-t-shirt-builder.web.app/
-Render - https://t-shirt-builder-api.onrender.com
+Firebase - https://national-lottery-game.web.app/
 
 ## Installing the project dependencies
 In the project and rest directory run:
