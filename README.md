@@ -14,7 +14,8 @@ The National Lottery is an offline number-guessing game
 
 
 ## Deployed in:
-Firebase - https://national-lottery-game.web.app
+Firebase - https://d-t-shirt-builder.web.app/
+Render - https://t-shirt-builder-api.onrender.com
 
 ## Installing the project dependencies
 In the project and rest directory run:
